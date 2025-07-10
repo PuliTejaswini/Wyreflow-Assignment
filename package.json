@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js",
-    "build": "cd frontend && npm run build",
+    "build": "cd frontend",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["contact-form", "react", "nodejs", "mongodb"],

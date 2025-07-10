@@ -18,7 +18,7 @@ const Navbar = ({ activeTab = 'contact' }) => {
         <div className="nav-container">
           {/* Logo */}
           <div className="nav-logo">
-            <h2>WyerFlow</h2>
+            <h2>WyreFlow</h2>
           </div>
           
           {/* Navigation Links */}
